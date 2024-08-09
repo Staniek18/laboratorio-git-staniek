@@ -1,1 +1,2 @@
-Texto de prueba
+Especifica tu nombre y correo electronico en este archivo
+Ej: Mateo Loaiza - formador.cloud@makaia.org
